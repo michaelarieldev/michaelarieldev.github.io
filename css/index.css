@@ -7,13 +7,6 @@ header {
     padding: 10px 20px;
 }
 
-h1 {
-    font-family: "Press Start 2P";
-    color: #FFF;
-    font-size: 20px;
-    text-shadow: 4px 4px #000;
-}
-
 nav {
     text-align: right;
 }
@@ -48,6 +41,5 @@ a::before {
 
 #button:hover {
     background-color: #8e44ad;
-    /* box-shadow: none; */
     transform: scale(1.08);
 }
